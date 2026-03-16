@@ -1,3 +1,22 @@
+
+## Requirements
+
+Python libraries used in this project include:
+
+- PyTorch
+- Transformers
+- TorchAudio
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Author
+
+Md Mohim Imam  
+Department of Computer Science and Engineering  
+Green University of Bangladesh
+
 # Cross-Modal Graph Attention for Multimodal Sarcasm Detection
 
 This repository contains the implementation of a multimodal sarcasm detection framework based on a Cross-Modal Graph Attention Network (CM-GAT). The model integrates textual, acoustic, and prosodic features to capture cross-modal relationships in spoken dialogue.
